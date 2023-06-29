@@ -1105,6 +1105,6 @@
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
-  <!-- FIRST: Add/Replace repos and particular directories needed by TWRP -->
-  <include name="twrp-default.xml"/>
+  <!-- FIRST: Add/Replace repos and particular directories needed by PBRP -->
+  <include name="pbrp-default.xml"/>
 </manifest>
